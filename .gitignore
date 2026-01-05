@@ -10,3 +10,7 @@ modules.order
 *.o
 *~
         
+
+# macOS system files
+.DS_Store
+._*
